@@ -21,6 +21,8 @@ console.log(escola.substring(0, 3))
 console.log('Escola '.concat(escola).concat("!"))
 //Concatenou uma string com uma constante.
 
+console.log('Escola ' + escola + '!')
+
 console.log(escola.replace(3, 'e'))
 //O replace substituiu o índice 3 pela letra 'e'.
 
